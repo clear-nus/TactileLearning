@@ -15,7 +15,9 @@ Each folder there contains 3 folders:
 	3. skin_events: force values
 
 This are object ids used in the paper:
+
 BT -> bathTowel
+
 CB -> cardBoard
 PM -> carpetNet
 CC -> cork
