@@ -40,3 +40,5 @@ These are objects' ids used in the paper:
 - WP -> thinPolypropylene
 - BD -> woodHard
 - YM -> yogaMat
+
+![Materials with IDs](https://raw.githubusercontent.com/crslab/TactileLearning/master/materials_with_id.png?token=ABDHLQX77WBMPMTAQI2UORC45HDEE)
