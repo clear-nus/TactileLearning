@@ -14,21 +14,20 @@ Each folder there contains 3 folders:
 	2. right_forearm_comp: tactile sensor values
 	3. skin_events: force values
 
-This are object ids used in the paper:
+These are objects' ids used in the paper:
 
-BT -> bathTowel
-
-CB -> cardBoard
-PM -> carpetNet
-CC -> cork
-CH -> cotton
-FM -> cuisionFoam
-CS -> denim
-ES -> eva
-LC -> fakeLeather
-FL -> felt
-FB -> fiberBoard
-MS -> metal
+- BT -> bathTowel
+- CB -> cardBoard
+- PM -> carpetNet
+- CC -> cork
+- CH -> cotton
+- FM -> cuisionFoam
+- CS -> denim
+- ES -> eva
+- LC -> fakeLeather
+- FL -> felt
+- FB -> fiberBoard
+- MS -> metal
 RS -> paper1
 LM -> paper2
 PS -> polypropileno
