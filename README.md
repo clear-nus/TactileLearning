@@ -28,14 +28,14 @@ These are objects' ids used in the paper:
 - FL -> felt
 - FB -> fiberBoard
 - MS -> metal
-RS -> paper1
-LM -> paper2
-PS -> polypropileno
-CT -> polypropilenoSmooth
-BM -> softMaterial1
-CP -> softMaterial2
-SS -> spongeWhiteSmall
-PF -> styrofoam
-WP -> thinPolypropylene
-BD -> woodHard
-YM -> yogaMat
+- RS -> paper1
+- LM -> paper2
+- PS -> polypropileno
+- CT -> polypropilenoSmooth
+- BM -> softMaterial1
+- CP -> softMaterial2
+- SS -> spongeWhiteSmall
+- PF -> styrofoam
+- WP -> thinPolypropylene
+- BD -> woodHard
+- YM -> yogaMat
