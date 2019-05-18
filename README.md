@@ -7,12 +7,12 @@ Supplementary material and dataset for the "Towards Effective Tactile Identifica
 # Dataset description #
 This dataset contains tactile sensor data 23 textures. The data are gathered from iCub's forearm tactile sensor for touch and slide.
 Each object has 2 folders:
-	1. slide_raw
-	1. touch_raw
+1. slide_raw
+1. touch_raw
 Each folder there contains 3 folders:
-	1. right_arm_encoders: encoder values of 15 dof of iCub's right arm
-	1. right_forearm_comp: tactile sensor values
-	1. skin_events: force values
+1. right_arm_encoders: encoder values of 15 dof of iCub's right arm
+1. right_forearm_comp: tactile sensor values
+1. skin_events: force values
 
 These are objects' ids used in the paper:
 
