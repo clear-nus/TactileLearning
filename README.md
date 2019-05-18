@@ -10,9 +10,9 @@ Each object has 2 folders:
 1. slide_raw
 1. touch_raw
 Each folder there contains 3 folders:
-1. right_arm_encoders: encoder values of 15 dof of iCub's right arm
-1. right_forearm_comp: tactile sensor values
-1. skin_events: force values
+2. right_arm_encoders: encoder values of 15 dof of iCub's right arm
+2. right_forearm_comp: tactile sensor values
+2. skin_events: force values
 
 These are objects' ids used in the paper:
 
